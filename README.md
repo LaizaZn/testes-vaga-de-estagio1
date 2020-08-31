@@ -1,0 +1,4 @@
+-Projeto que trabalha conceitos de POO feito para o teste para vaga de web crawler
+-Para testar o projeto, deve-se executar o arquivo Main.java . O programa recebe como input a letra inicial minúscula correspondente ao animal de que se deseja obter informações, conforme as instruções que estarão no programa
+-A pasta src exibe as outras classes que o programa utiliza;
+-O diagrama de classe ´do programa está presente no repositório com o nome diagrama-de-classe.png
